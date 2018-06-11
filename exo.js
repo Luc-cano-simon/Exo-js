@@ -52,10 +52,21 @@ alert("Bonjour, "+ prenom + " " + nom + " tu habite à " + ville);
 
 */
 
-
+/*											Exercice 5
 var nb1 = prompt("Choisissez un nombre à virgule");
 var nb2 = prompt("Choisissez un second nombre à virgule");
 nb1=parseInt(nb1);
 nb2=parseInt(nb2);
 var result = nb1 * nb2;
 alert("le resultat de la multiplication est : "+result);
+
+*/
+
+var pointure = prompt("Entrez votre pointure")
+var Anaiss = prompt("Entrez votre année de naissance")
+resultat = pointure*2
+resultat = pointure + 5
+resultat = resultat *50
+resultat = resultat -Anaiss
+resultat = resultat +1766
+alert(" le resultat est : "+resultat)
