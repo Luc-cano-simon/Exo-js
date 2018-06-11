@@ -62,6 +62,10 @@ alert("le resultat de la multiplication est : "+result);
 
 */
 
+/*											Exercice 6     */
+
+/*											Exercice 7
+										
 var pointure = prompt("Entrez votre pointure")
 var Anaiss = prompt("Entrez votre année de naissance")
 resultat = pointure*2
@@ -70,3 +74,14 @@ resultat = resultat *50
 resultat = resultat -Anaiss
 resultat = resultat +1766
 alert(" le resultat est : "+resultat)
+
+*/
+
+/*
+var age = prompt("Veuillez nous dire votre age")
+	if (age>=18) {
+		alert("Vous êtes majeur")
+	}
+	else 
+		alert("vous êtes mineur")
+*/
